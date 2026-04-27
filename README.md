@@ -1,8 +1,7 @@
 # Hi, I'm Harshith 👋
 
 🎓 Computer Science Student  
-🚀 Aspiring DevOps Engineer  
-☁️ Learning AWS, Docker, Kubernetes & CI/CD  
+
 
 ## 🔧 Skills
 - Linux & Shell Scripting
